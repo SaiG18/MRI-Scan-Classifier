@@ -39,15 +39,11 @@ Just type
 
 ## Guess Process
 
-Just type for a single guess. Only JPG files work currently.
+Just type below command for a single guess. Only JPG files work currently.
 ```
  ./guess.sh [any_path]/classifier /filename.jpg
 ```
 
-To guess an entire directory
-```
-./guessDir.sh [any_path]/classifier [any_path]/srcDir [any_path]/destDir
-```
 
 ## Accuracy
 ```
