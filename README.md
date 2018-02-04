@@ -18,8 +18,7 @@ Developed using the [CodeLab](https://codelabs.developers.google.com/codelabs/te
 
 ## Usage 
 
-You just need to make a "classifier" directory with a directory "data" inside it with all your images
-For example
+You just need to make a "classifier" directory with a directory "data" inside it with all your images.
 ```
  [any_path]/classifier/
  [any_path]/classifier/data
@@ -56,7 +55,7 @@ normal brain (score = 0.91513)
 tumor brain (score = 0.08487)
 ```
 
-Use an absolute file path for classifier and pictures because the script dos not support relative path (volume mounting).
+Use an absolute file path for classifier and pictures because the script dos not support relative path.
 
 
 # Credits
