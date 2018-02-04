@@ -7,7 +7,6 @@ Normal brain on the left. Brain with a tumor on the right.
 
 ![first jpg](https://user-images.githubusercontent.com/9091157/35780421-29b470a6-09a9-11e8-8748-1a701f876a41.jpg)  ![images 10](https://user-images.githubusercontent.com/9091157/35780431-48bd675a-09a9-11e8-842a-5585d8a74cd4.jpg)
 
-<img width="552" alt="bc758910e1c6eee7" src="https://user-images.githubusercontent.com/9091157/35780433-56ad79c2-09a9-11e8-89c2-3bb9352fb8f9.png">    ![playground](https://user-images.githubusercontent.com/9091157/35780437-5f10fac6-09a9-11e8-8cb1-90a12b6221ba.png)
 
 ## Requirements
 
