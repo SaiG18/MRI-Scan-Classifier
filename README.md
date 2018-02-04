@@ -52,8 +52,6 @@ normal brain (score = 0.91513)
 tumor brain (score = 0.08487)
 ```
 
-Use an absolute file path for classifier and pictures because the script dos not support relative path.
-
 
 # Credits
 
