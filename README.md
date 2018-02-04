@@ -13,7 +13,7 @@ Normal brain on the left. Brain with a tumor on the right.
 
 * [Docker Toolbox](https://www.docker.com/products/docker-toolbox)
 
-* Link docker through command
+* Link docker image to Tensorflow library
 ```
  docker run -it -v ~/tf_files/brain_tumor:/tf_files/brain_tumor gcr.io/tensorflow/tensorflow:latest-devel
 ``` 
@@ -50,7 +50,7 @@ To guess an entire directory
 ./guessDir.sh [any_path]/classifier [any_path]/srcDir [any_path]/destDir
 ```
 
-## Example of a result
+## Accuracy
 ```
 # ./guess.sh /tf_files/brain_tumor/ /tf_files/Tester/tumor1.jpg
 normal brain (score = 0.91513)
