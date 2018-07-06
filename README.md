@@ -1,5 +1,5 @@
 # MRI Scan Analysis
-Detect brain tumors using Tensorflow's convolutional neural network. 
+Detect abnormal conditions in the brain using a convolutional neural network from Tensorflow.
 
 Developed using the [CodeLab](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/?utm_campaign=chrome_series_machinelearning_063016&utm_source=gdev&utm_medium=yt-desc#0) guide from Google.
 
