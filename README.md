@@ -53,9 +53,5 @@ tumor brain (score = 0.08487)
 ```
 
 
-# Credits
-
-Credit goes to [Siraj Raval](https://github.com/llSourcell) for the image classification algorithm. 
-
 
 
